@@ -1,0 +1,6 @@
+- Python 3.7+
+- PyTorch
+- Hugging Face Transformers
+- OpenCV
+- Scikit-Learn
+- LIME
